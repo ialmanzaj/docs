@@ -51,14 +51,11 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "API Docs",
       "pages": [
-        "essentials/markdown",
+        "essentials/general",
         "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "essentials/images"
       ]
     },
     {
