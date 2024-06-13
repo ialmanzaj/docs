@@ -1,4 +1,6 @@
-# Zeneca documentation
+# Zeneca docs
+
+Welcome to our documentation  repository behind Zeneca's docs at https://zeneca.mintlify.app/. If you have any suggestions let us know at product@zeneca.app
 
 
 
