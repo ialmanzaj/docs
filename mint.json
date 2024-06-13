@@ -54,7 +54,7 @@
       "group": "API Docs",
       "pages": [
         "essentials/general",
-        "essentials/code",
+        "essentials/sandbox",
         "essentials/images"
       ]
     },
