@@ -53,7 +53,9 @@
     {
       "group": "API Docs",
       "pages": [
-        "essentials/general"
+        "essentials/general",
+        "essentials/countries",
+        "essentials/settlements"
       ]
     },
     {
